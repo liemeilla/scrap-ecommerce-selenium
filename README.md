@@ -4,7 +4,7 @@
 - Required packages are writted inside `requirement.txt`
 - This project uses python version `3.6.8`
 
-## Scrapping E-Commerce Website
+## E-Commerce Website
 E-Commerce website used tokopedia website which use 2 parameter, `url` and `topic`. The url is used for accessing tokopedia website and topic is the keyword to search certain product
 
 ## How to run
